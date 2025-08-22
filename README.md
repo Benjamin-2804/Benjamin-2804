@@ -8,11 +8,18 @@
 
 •  Goal: To become a skilled and competent Web and Mobile Application Developer
 
-•  Interested in Software Development, Cloud Computing, and UI/UX Design
+•  Interested in Website development and UI/UX Design
 
-  Skills:
+ 💡 Skills:
 
 •  Languages: C#, Python
+
+
+ 
+ 📧 Want to contact me?:
+
+•  You may reach out to me at bmikr146@gmail.com
+
 
 
 
