@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Benjamin Isidro Abadier Jr.
 
 About me:
+
 •  BSIT Student at Laguna State Polytechnic University - Santa Cruz Campus
 
 •  In the process of learning Python, Flask, SQL, Flutter, and Dart
