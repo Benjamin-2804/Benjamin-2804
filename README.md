@@ -10,7 +10,9 @@ About me:
 
 •  Interested in Software Development, Cloud Computing, and UI/UX Design
 
+Skills:
 
+•  Languages: C#,Python
 
 
 
