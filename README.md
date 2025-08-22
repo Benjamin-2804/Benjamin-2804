@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Benjamin Isidro Abadier Jr.
 
-About me:
+🙋‍♂️ About me:
 
 •  BSIT Student at Laguna State Polytechnic University - Santa Cruz Campus
 
@@ -10,9 +10,9 @@ About me:
 
 •  Interested in Software Development, Cloud Computing, and UI/UX Design
 
-Skills:
+  Skills:
 
-•  Languages: C#,Python
+•  Languages: C#, Python
 
 
 
