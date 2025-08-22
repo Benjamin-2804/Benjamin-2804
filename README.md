@@ -2,8 +2,11 @@
 
 About me:
 •  BSIT Student at Laguna State Polytechnic University - Santa Cruz Campus
+
 •  In the process of learning Python, Flask, SQL, Flutter, and Dart
+
 •  Goal: To become a skilled and competent Web and Mobile Application Developer
+
 •  Interested in Software Development, Cloud Computing, and UI/UX Design
 
 
