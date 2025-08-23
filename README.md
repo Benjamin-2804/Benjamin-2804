@@ -12,11 +12,13 @@
 
  💡 Skills:
 
-•  Languages: C#, Python
+•  Languages: Beginner in C#, Python, SQL, Flask, and Dart
 
 ⚒️ Current Projects:
 
 • Learning the ins and outs of Github
+
+• Learning Python
  
  📧 Want to contact me?:
 
