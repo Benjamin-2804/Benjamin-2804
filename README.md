@@ -6,9 +6,9 @@
 
 •  In the process of learning **Python, Flask, SQL, Flutter, and Dart**
 
-•  Goal: To become a skilled and competent Web and Mobile Application Developer
+•  Goal: To become a skilled and competent Programmer and Developer
 
-•  Interested in Web development and UI/UX Design
+•  Interested in Software and Web development
 
  💡 Skills:
 
@@ -16,7 +16,7 @@
 
 ⚒️ Current Projects:
 
-• 
+• Learning the ins and outs of Github
  
  📧 Want to contact me?:
 
