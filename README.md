@@ -20,7 +20,7 @@
  
  📧 Want to contact me?:
 
-•  You may reach out to me at bmikr146@gmail.com
+•  Feel free to reach out to me at bmikr146@gmail.com
 
 
 
