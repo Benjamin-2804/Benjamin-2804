@@ -16,7 +16,7 @@
 
 ⚒️ Current Projects:
 
-• Learning the ins and outs of Github
+• Learning the ins and outs of GitHub
 
 • Learning Python
  
