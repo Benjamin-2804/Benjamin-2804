@@ -14,7 +14,9 @@
 
 •  Languages: C#, Python
 
+⚒️ Current Projects:
 
+• 
  
  📧 Want to contact me?:
 
