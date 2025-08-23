@@ -8,7 +8,7 @@
 
 •  Goal: To become a skilled and competent Web and Mobile Application Developer
 
-•  Interested in Website development and UI/UX Design
+•  Interested in Web development and UI/UX Design
 
  💡 Skills:
 
